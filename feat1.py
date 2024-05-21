@@ -2,7 +2,7 @@
 
 
 def main():
-    print('I am feature 1')
+    print('This is feature 1')
 
 
 if __name__ == '__main__':
